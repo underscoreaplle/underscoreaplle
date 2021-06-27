@@ -1,5 +1,5 @@
 👋 Hey, I’m @underscoreaplle!
-❓  I'm the founder and current owner of Withered (www.withered.app)!
+❓  I'm the founder and current owner of Withered (www.withered.app).
 👀 I’m interested in modding games, mainly Minecraft.
 🌱 I’m currently learning HTML.
 💞️ I’m not currently looking to collaborate on anything.
