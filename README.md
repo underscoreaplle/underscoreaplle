@@ -6,9 +6,9 @@
 
 📫 Contact:
 
-       harold@withered.app
+       foxl@withered.app
        
-       discord.link/withered
+       https://withered.app/discord
 
 <!---
 underscoreaplle/underscoreaplle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
