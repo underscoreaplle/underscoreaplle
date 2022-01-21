@@ -7,7 +7,7 @@
 # 📫 Contact:
 
        foxl@withered.app
-       https://withered.app/discord
+       https://wthrd.co/discord
 
 <!---
 foxlldev/foxlldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
