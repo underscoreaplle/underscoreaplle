@@ -6,7 +6,7 @@ I'm the founder and current owner of Withered (www.withered.app).
 
 # 📫 Contact:
 foxl@withered.app  
-https://wthrd.co/discord
+https://wthrd.co/ff
 
 <!---
 foxlldev/foxlldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
