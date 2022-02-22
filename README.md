@@ -7,6 +7,7 @@ I'm the founder and current owner of Withered (www.withered.app).
 # 📫 Contact:
 foxl@withered.app  
 https://wthrd.co/ff  
+https://foxl.bss.design/contact.html
 <br><img src="https://discord.c99.nl/widget/theme-3/400680342136291329.png">
 
 <!---
