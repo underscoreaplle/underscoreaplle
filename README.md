@@ -3,7 +3,7 @@
 I'm the founder and current owner of Withered (www.withered.app).  
 👀 I’m interested in developing apps, mods and games.  
 💞️ I’m not currently looking to collaborate on anything.  
-Portfolio: (fox.bss.design)[https://foxl.bss.design]
+Portfolio: [foxl.bss.design](https://foxl.bss.design)
 
 # 📫 Contact:
 foxl@withered.app  
