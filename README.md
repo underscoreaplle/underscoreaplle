@@ -1,8 +1,8 @@
 
 # 👋 Hey, I’m @foxlldev!
-I'm the founder and current owner of [Withered](https://withered.io).  
+I'm the founder and current owner of [Withered](https://withered.app/about).  
 👀 I’m interested in developing websites, apps, mods and games.  
-💞️ Wanna help with Withered? See [withered.io/jobs](https://withered.io/jobs)  
+💞️ Wanna help with Withered? Contact me below.
 Portfolio: [foxl.design](https://foxl.design)
 
 # 📫 Contact:
