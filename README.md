@@ -1,6 +1,7 @@
 
 # 👋 Hey, I’m @foxlldev!
 I'm the founder and current owner of [Withered](https://withered.app/about).  
+I made a to-do/note-keeping app: [view here](https://foxl.design/mind).
 👀 I’m interested in developing websites, apps, mods and games.  
 💞️ Wanna help with Withered? Contact me below.  
 Portfolio: [foxl.design](https://foxl.design)
