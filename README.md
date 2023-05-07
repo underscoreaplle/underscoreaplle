@@ -7,8 +7,8 @@ I made a to-do/note-keeping app: [view here](https://foxl.dev/mind).
 Portfolio: [foxl.dev](https://foxl.dev)
 
 # 📫 Contact:
-foxl@withered.app  
-https://foxl.design 
+via email: [foxl@withered.app](mailto:foxl@withered.app)  
+view portfolio: [foxl.dev](https://foxl.dev)
 <br><img src="https://discord.c99.nl/widget/theme-3/400680342136291329.png">
 
 # Stats
