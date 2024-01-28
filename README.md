@@ -1,5 +1,5 @@
 
-# 👋 Hey, I’m @foxlldev!
+# 👋 Hey!
 I'm the founder and current owner of [Withered Group](https://github.com/withered-group).  
 👀 I’m interested in developing websites, apps, mods and games.  
 💞️ Wanna collaborate? Contact me below.  
