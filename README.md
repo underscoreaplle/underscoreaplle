@@ -1,17 +1,16 @@
 
 # 👋 Hey!
-I'm the founder and current owner of [Withered Group](https://github.com/withered-group).  
-👀 I’m interested in developing websites, apps, mods and games.  
+I'm a software/app/web designer & developer.
+👀 I’m interested in pretty much anything.  
 💞️ Wanna collaborate? Contact me below.  
-Portfolio: [foxl.dev](https://foxl.dev)
 
 # 📫 Contact:
-via email: [hello@foxl.dev](mailto:hello@foxl.dev)  
-view portfolio: [foxl.dev](https://foxl.dev)
+via email: [hmallen.cb@gmail.com](mailto:hmallen.cb@gmail.com)  
+view portfolio: [haroldallen.github.io](https://haroldallen.github.io)
 <br><img src="https://discord.c99.nl/widget/theme-3/400680342136291329.png">
 
 # Stats
-![foxlldev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldallen&count_private=true&show_icons=true&theme=light)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldallen&count_private=true&show_icons=true&theme=light)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldallen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
