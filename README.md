@@ -1,6 +1,6 @@
 
 # 👋 Hey!
-I'm a software/app/web designer & developer.
+I'm a software/app/web designer & developer.  
 👀 I’m interested in pretty much anything.  
 💞️ Wanna collaborate? Contact me below.  
 
