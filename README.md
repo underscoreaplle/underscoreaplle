@@ -1,7 +1,8 @@
 
 # 👋 Hey!
 I'm a software/app/web designer & developer.  
-👀 I’m interested in pretty much anything.  
+I code JS, TS, Rust, plus I can learn pretty much anything.  
+👀 I’m interested anything you'd like to chat about or offer.  
 💞️ Wanna collaborate? Contact me below.  
 
 # 📫 Contact:
